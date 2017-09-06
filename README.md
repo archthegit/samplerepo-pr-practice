@@ -1,3 +1,3 @@
-# [Sample Repo] PR Practice
-adding a summary section
+# [Sample Repo] summary
+adding a summary section. the desription has been lengthened
 
